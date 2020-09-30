@@ -1,3 +1,0 @@
-class Calculate(object):
-    def __init__(self):
-        pass

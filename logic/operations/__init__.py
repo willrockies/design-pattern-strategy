@@ -1,0 +1,5 @@
+from logic.operations.sum_strategy import SumStrategy
+from logic.operations.minus_strategy import MinusStrategy
+from logic.operations.division_strategy import DivisionStrategy
+from logic.operations.times_strategy import TimesStrategy
+from logic.operations.power_strategy import PowerStrategy
