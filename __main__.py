@@ -5,4 +5,3 @@ calculate = Calculate()
 strategy = SumStrategy()
 calculate_item = CalculateItems(strategy)
 calc = calculate_item.calculate_items(calculate)
-assert calc + 1
